@@ -51,27 +51,47 @@ Theme Styles
 /* More fonts */
 @font-face {
     font-family: "Apercu Pro";
+<<<<<<< HEAD
     src: url(../assets/fonts/apercu_regular_pro.woff) format('woff');
+=======
+    src: url(../fonts/apercu_regular_pro.woff) format('woff');
+>>>>>>> 532851dcd78f4acca92a88f93de17e0eb1ba0d9a
 }
 
 @font-face {
     font-family: "Apercu Bold";
+<<<<<<< HEAD
     src: url(../assets/fonts/apercu_bold_pro.woff) format('woff');
+=======
+    src: url(../fonts/apercu_bold_pro.woff) format('woff');
+>>>>>>> 532851dcd78f4acca92a88f93de17e0eb1ba0d9a
 }
 
 @font-face {
     font-family: "Apercu Mono";
+<<<<<<< HEAD
     src: url(../assets/fonts/apercu_mono_pro.woff) format('woff');
+=======
+    src: url(../fonts/apercu_mono_pro.woff) format('woff');
+>>>>>>> 532851dcd78f4acca92a88f93de17e0eb1ba0d9a
 }
 
 @font-face {
     font-family: "Antwerp";
+<<<<<<< HEAD
     src: url(../assets/fonts/Antwerp-Regular.woff) format('woff');
+=======
+    src: url(../fonts/Antwerp-Regular.woff) format('woff');
+>>>>>>> 532851dcd78f4acca92a88f93de17e0eb1ba0d9a
 }
 
 @font-face {
     font-family: "Antwerp Italic";
+<<<<<<< HEAD
     src: url(../assets/fonts/Antwerp-Italic.woff) format('woff');
+=======
+    src: url(../fonts/Antwerp-Italic.woff) format('woff');
+>>>>>>> 532851dcd78f4acca92a88f93de17e0eb1ba0d9a
 }
 
 body {
