@@ -49,7 +49,7 @@ Theme Styles
 *******************************************************************************/
 
 /* More fonts */
-font-face {
+@font-face {
     font-family: "Apercu Pro";
     src: url(../assets/fonts/apercu_regular_pro.woff) format('woff');
 }
