@@ -1,3 +1,3 @@
 name: SIH Training
 markdown: kramdown
-theme: minima
+remote_theme: contrast
