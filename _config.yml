@@ -1,7 +1,3 @@
 name: SIH Training
 markdown: kramdown
-<<<<<<< HEAD
-remote_theme: contrast
-=======
-theme: contrast
->>>>>>> 8e6230beb2c7287b3ca62f58c1b448dce51b8fb3
+remote_theme: niklasbuschmann/contrast
