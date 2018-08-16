@@ -57,11 +57,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-<<<<<<< HEAD
   path                   : "blank" # blank (default) uses feed.xml
-=======
-  path                   : blank # blank (default) uses feed.xml
->>>>>>> dfd2f16b90112ff8c06bcfddb3b0c711a2a31add
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -117,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
