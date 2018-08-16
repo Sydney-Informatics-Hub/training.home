@@ -1,7 +1,0 @@
-name: SIH Training
-
-
-
-# Build settings
-markdown: kramdown
-remote_theme: niklasbuschmann/contrast
