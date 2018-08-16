@@ -79,7 +79,7 @@ body {
   color:#373737;
   background: #212121;
   font-size: 16px;
-  font-family: Times, 'Apercu Pro','Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-family: Times, "Apercu Pro",'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -266,7 +266,7 @@ table {
  }
 
 th {
-  font-family: 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Apercu Pro', 'Lucida Grande', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 10px;
   background: #373737;
   color: #fff;
