@@ -103,7 +103,7 @@ author:
   name             : "Sydney Informatics Hub"
   avatar           : "/assets/images/logo.jpg"
   bio              : "A Sydney University Core Research Facility"
-  location         : "University of Sydney"
+  location         : "Sydney, Australia"
   email            : "sih.training@sydney.edu.au"
   uri              : "https://informatics.sydney.edu.au/"
   home             : # null (default), "absolute or relative url to link to author home"
