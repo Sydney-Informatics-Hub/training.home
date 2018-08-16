@@ -22,7 +22,7 @@ name                     : "Sydney Informatics Hub"
 description              : "Research computing and data analysis training courses"
 url                      : "https://pages.github.sydney.edu.au/informatics/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/training.io" # the subpath of your site, e.g. "/blog"
-repository_url           : "https://github.sydney.edu.au/informatics/training.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.sydney.edu.au/informatics/training.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
