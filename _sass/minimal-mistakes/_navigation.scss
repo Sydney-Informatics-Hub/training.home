@@ -182,12 +182,12 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: $background-color;
+  background: $masthead-background-color;
 
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    color: $masthead-color;
     text-decoration: none;
 
     &:hover {

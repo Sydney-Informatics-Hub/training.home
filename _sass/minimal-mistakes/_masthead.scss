@@ -10,6 +10,7 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  background-color: $masthead-background-color;
 
   &__inner-wrap {
     @include clearfix;
@@ -47,6 +48,7 @@
   align-self: center;
   font-weight: bold;
   z-index: 20;
+  font-size: $type-size-2;
 }
 
 .masthead__menu {

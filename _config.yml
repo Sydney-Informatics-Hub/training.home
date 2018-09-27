@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "SIH Training"
+title                    : "SIH Training Courses"
 title_separator          : "-"
 name                     : "Sydney Informatics Hub"
 description              : "Research computing and data analysis training courses"
