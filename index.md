@@ -3,10 +3,6 @@ layout: splash
 author_profile: true
 ---
 
-site.url: {{ site.url }}
-
-
-
 ## Research Computing courses
 
 | Course | Site | Repo | Maintainers |
