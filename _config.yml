@@ -12,7 +12,7 @@
 
 # Github integration
 # github: [metadata]
-# repository: <USERNAME>/<PROJECT>
+repository: <USERNAME>/<PROJECT>
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
@@ -26,6 +26,7 @@ name                     : "Sydney Informatics Hub"
 description              : "Research computing and data analysis training courses"
 url                      : "https://sydney-informatics-hub.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/training.home" # the subpath of your site, e.g. "/blog"
+repo_url                 : "https://github.com/Sydney-Informatics-Hub"
 repository               : "Sydney-Informatics-Hub/training.home" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.png"
 # breadcrumbs            : false # true, false (default)
